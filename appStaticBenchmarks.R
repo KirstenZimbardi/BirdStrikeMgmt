@@ -36,8 +36,6 @@ pal <- colorFactor(c("#00CD00", "#FFFF00", "#FFA500", "#C30800"), levels = level
 
 # benchmark map
 df.medium = read.csv("Strikes Medium Airports.csv", stringsAsFactors = F)
-df.medium$date.time = as.Date(paste0(df.medium$Year, "-01-01"))
-
 t4 = df.medium %>% 
   select(name, latitude, longitude, Year, Strikes.per.10000Flights, Total.Flights, Strikes) %>% 
   group_by(name, latitude, longitude) %>% 
@@ -57,12 +55,7 @@ map.style = list('color'= "#2A2A2A",
                  'border-color' = 'rgba(0,0,0,0.5)',
                  'box-shadow' = '3px 3px rgba(0,0,0,0.25)')
 url = "http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
-map5.style = list('color'= "#FFFFFF",
-                 'font-family'= 'Arial',
-                 'font-style'= 'normal',
-                 'font-size' = '12px',
-                 'border-color' = 'rgba(0,0,0,0.5)',
-                 'box-shadow' = '3px 3px rgba(0,0,0,0.25)')
+
 
 ui <- fluidPage(
   tags$head(
@@ -98,11 +91,8 @@ ui <- fluidPage(
            p("Mean number of bird strikes per year at Australian airports with 10,000-50,000 flights."),
            p("Colour indicates the number of strikes, size indicates the mean number of flights per anunum."),
            br(), br(),
-           fluidRow(column(4),
-                   column(6, sliderInput("Year2", label = "Year", sep="", 
-                                         animate=animationOptions(interval=800, loop=T), 
-                                         value = year(ymd(20010101)), 
-                                         min = year(ymd(20000101)), max = year(ymd(20160101))))),
+           #fluidRow(column(4),
+           #        column(6, sliderInput("Year", label = "Year", sep="", animate=animationOptions(interval=800, loop=T), value = year(ymd(20040101)), min = year(ymd(20040101)), max = year(ymd(20160101))))),
            
            
            #dygraphOutput("dygraph"),
@@ -146,29 +136,15 @@ server <- function(input, output, session) {
   })
   
   output$map5 = renderLeaflet({
-    map2 = leaflet(df.medium) %>% addTiles(urlTemplate=url) %>% 
+    map2 = leaflet(df4) %>% addTiles(urlTemplate=url) %>% 
       setView(view.long, view.lat, zoom = 4) %>%
-      addLegend("bottomright", pal = pal2, values = ~Strikes,
+      addLegend("bottomright", pal = pal2, values = ~strike.ave,
                 title = "Average bird strikes (pa)",
-                opacity = 0.7)
-      
-  })
-  
-  benchData = reactive({df.medium[which(year(df.medium$date.time) %in% year(ymd(paste0(input$Year2, "0101")))),] })  
-  
-  observeEvent(input$Year2, {
-    proxy.map = leafletProxy("map5", data = benchData())
-    proxy.map %>% clearMarkers() %>% 
-      addCircleMarkers(
-        benchData()$longitude, benchData()$latitude, radius = ~Total.Flights/5000, 
-        fill = TRUE, fillOpacity = 1, stroke = F,
-        color = pal2(benchData()$Strikes),
-      #)
-        label = ~name[1:16], labelOptions = labelOptions(
-          noHide=T, 
-          direction = "right", offset = c(15, -20),
-          textOnly = T,
-          style=map5.style)) 
+                opacity = 0.7) %>%
+      addCircleMarkers(lng = df4$longitude, lat = df4$latitude, 
+                       radius = ~flights.ave/5000,
+                       stroke = F, fill = T, opacity = 1, fillOpacity = 0.7,
+                       fillColor = pal2(sort(df4$strike.ave)))
   })
   
   output$plot = renderPlot(with(d, plot_ly(x = Year, y = AveSumMass, text = "Mass", mode = "markers", color = LOCATION, colors = "Spectral", size = AveSumMass)))

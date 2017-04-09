@@ -3,9 +3,9 @@ title: BirdStrikeMgmt
 account: kirstenz
 server: shinyapps.io
 appId: 168028
-bundleId: 782841
+bundleId: 782857
 url: https://kirstenz.shinyapps.io/BirdStrikeMgmt/
-when: 1491779042.3277
+when: 1491781261.50369
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: .RData|appCut.R|Strikes.csv
+ignoredFiles: .RData|appCut.R|appStaticBenchmarks.R|appYears.R|HelperFunctions.R|OzAirportGroupings.csv|OzAirportsGIS.csv|OzAirportStrikes.csv|OzAirportStrikes.R|Strikes.csv

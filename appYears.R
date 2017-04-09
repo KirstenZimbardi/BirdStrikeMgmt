@@ -57,12 +57,7 @@ map.style = list('color'= "#2A2A2A",
                  'border-color' = 'rgba(0,0,0,0.5)',
                  'box-shadow' = '3px 3px rgba(0,0,0,0.25)')
 url = "http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
-map5.style = list('color'= "#FFFFFF",
-                 'font-family'= 'Arial',
-                 'font-style'= 'normal',
-                 'font-size' = '12px',
-                 'border-color' = 'rgba(0,0,0,0.5)',
-                 'box-shadow' = '3px 3px rgba(0,0,0,0.25)')
+
 
 ui <- fluidPage(
   tags$head(
@@ -99,10 +94,7 @@ ui <- fluidPage(
            p("Colour indicates the number of strikes, size indicates the mean number of flights per anunum."),
            br(), br(),
            fluidRow(column(4),
-                   column(6, sliderInput("Year2", label = "Year", sep="", 
-                                         animate=animationOptions(interval=800, loop=T), 
-                                         value = year(ymd(20010101)), 
-                                         min = year(ymd(20000101)), max = year(ymd(20160101))))),
+                   column(6, sliderInput("Year2", label = "Year", sep="", animate=animationOptions(interval=800, loop=T), value = year(ymd(20000101)), min = year(ymd(20000101)), max = year(ymd(20160101))))),
            
            
            #dygraphOutput("dygraph"),
@@ -162,13 +154,13 @@ server <- function(input, output, session) {
       addCircleMarkers(
         benchData()$longitude, benchData()$latitude, radius = ~Total.Flights/5000, 
         fill = TRUE, fillOpacity = 1, stroke = F,
-        color = pal2(benchData()$Strikes),
-      #)
-        label = ~name[1:16], labelOptions = labelOptions(
-          noHide=T, 
-          direction = "right", offset = c(15, -20),
-          textOnly = T,
-          style=map5.style)) 
+        fillColor = pal2(benchData()$Strikes)
+      )
+       # label = ~name[1:16], labelOptions = labelOptions(
+      #    noHide=T, 
+       #   direction = "right", offset = c(15, -20),
+        #  textOnly = T,
+         # style=map.style)) 
   })
   
   output$plot = renderPlot(with(d, plot_ly(x = Year, y = AveSumMass, text = "Mass", mode = "markers", color = LOCATION, colors = "Spectral", size = AveSumMass)))
