@@ -1,0 +1,11 @@
+name: BirdStrikeMgmt
+title: BirdStrikeMgmt
+account: kirstenz
+server: shinyapps.io
+appId: 168028
+bundleId: 782777
+url: https://kirstenz.shinyapps.io/BirdStrikeMgmt/
+when: 1491773882.60954
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
