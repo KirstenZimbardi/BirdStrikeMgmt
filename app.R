@@ -95,7 +95,7 @@ server <- function(input, output, session) {
       addCircleMarkers(
         selectedData()$lng, selectedData()$lat, radius = 10, 
         fill = TRUE, fillOpacity = 1, stroke = F,
-        color = pal(sort(selectedData()$bins.mass)),
+        color = pal(selectedData()$bins.mass),
         label = ~LOCATION[1:10], labelOptions = labelOptions(
           noHide=T, 
           direction = "right", offset = c(15, -20),
