@@ -54,6 +54,8 @@ map.style = list('color'= "#2A2A2A",
                  'font-size' = '12px',
                  'border-color' = 'rgba(0,0,0,0.5)',
                  'box-shadow' = '3px 3px rgba(0,0,0,0.25)')
+url = "http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
+
 
 ui <- fluidPage(
   tags$head(
@@ -134,7 +136,7 @@ server <- function(input, output, session) {
   })
   
   output$map5 = renderLeaflet({
-    map2 = leaflet(df4) %>% addTiles() %>% 
+    map2 = leaflet(df4) %>% addTiles(urlTemplate=url) %>% 
       setView(view.long, view.lat, zoom = 4) %>%
       addLegend("bottomright", pal = pal2, values = ~strike.ave,
                 title = "Average bird strikes (pa)",
