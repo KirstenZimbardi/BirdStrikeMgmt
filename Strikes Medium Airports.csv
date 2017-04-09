@@ -1,0 +1,175 @@
+"","iaco","Year","Airport.x","iata_faa.x","Total.Flights","Strikes.ATSB","Strikes.Avisure","Strikes","name","Airport.y","country","iata_faa.y","latitude","longitude","Kind","Strikes.per.10000Flights"
+"17","YBAS",2008,"Alice Springs","ASP",26188,6,NA,6,"Alice Springs","Alice Springs","Australia","ASP",-23.806667,133.902222,"Medium",2.29112570643043
+"18","YBAS",2011,"Alice Springs","ASP",27414,40,NA,40,"Alice Springs","Alice Springs","Australia","ASP",-23.806667,133.902222,"Medium",14.5910848471584
+"19","YBAS",2004,"Alice Springs","ASP",22288,11,NA,11,"Alice Springs","Alice Springs","Australia","ASP",-23.806667,133.902222,"Medium",4.9353912419239
+"20","YBAS",2001,"Alice Springs","ASP",30984,34,NA,34,"Alice Springs","Alice Springs","Australia","ASP",-23.806667,133.902222,"Medium",10.9734056287116
+"21","YBAS",2007,"Alice Springs","ASP",23732,15,NA,15,"Alice Springs","Alice Springs","Australia","ASP",-23.806667,133.902222,"Medium",6.32057980785437
+"22","YBAS",2010,"Alice Springs","ASP",24050,55,NA,55,"Alice Springs","Alice Springs","Australia","ASP",-23.806667,133.902222,"Medium",22.8690228690229
+"23","YBAS",2002,"Alice Springs","ASP",25672,26,NA,26,"Alice Springs","Alice Springs","Australia","ASP",-23.806667,133.902222,"Medium",10.1277656590838
+"24","YBAS",2009,"Alice Springs","ASP",22570,14,NA,14,"Alice Springs","Alice Springs","Australia","ASP",-23.806667,133.902222,"Medium",6.20292423571112
+"25","YBAS",2003,"Alice Springs","ASP",26012,11,NA,11,"Alice Springs","Alice Springs","Australia","ASP",-23.806667,133.902222,"Medium",4.22881746886053
+"26","YBAS",2000,"Alice Springs","ASP",32728,23,NA,23,"Alice Springs","Alice Springs","Australia","ASP",-23.806667,133.902222,"Medium",7.0276216084087
+"27","YBAS",2006,"Alice Springs","ASP",23414,14,NA,14,"Alice Springs","Alice Springs","Australia","ASP",-23.806667,133.902222,"Medium",5.97932860681643
+"28","YBAS",2005,"Alice Springs","ASP",21060,12,NA,12,"Alice Springs","Alice Springs","Australia","ASP",-23.806667,133.902222,"Medium",5.6980056980057
+"29","YBAS",2015,"Alice Springs","ASP",24120,10,NA,10,"Alice Springs","Alice Springs","Australia","ASP",-23.806667,133.902222,"Medium",4.14593698175788
+"30","YBAS",2013,"Alice Springs","ASP",24210,8,NA,8,"Alice Springs","Alice Springs","Australia","ASP",-23.806667,133.902222,"Medium",3.30441966129698
+"31","YBAS",2012,"Alice Springs","ASP",23642,10,NA,10,"Alice Springs","Alice Springs","Australia","ASP",-23.806667,133.902222,"Medium",4.22976059555029
+"32","YBAS",2014,"Alice Springs","ASP",25694,11,NA,11,"Alice Springs","Alice Springs","Australia","ASP",-23.806667,133.902222,"Medium",4.2811551334942
+"81","YBHM",2002,"Hamilton Island","HTI",15712,2,NA,2,"Hamilton Island Airport","","Australia","HTI",-20.3581,148.952,"Medium",1.27291242362525
+"82","YBHM",2008,"Hamilton Island","HTI",12134,6,NA,6,"Hamilton Island Airport","","Australia","HTI",-20.3581,148.952,"Medium",4.94478325366738
+"83","YBHM",2012,"Hamilton Island","HTI",11576,2,NA,2,"Hamilton Island Airport","","Australia","HTI",-20.3581,148.952,"Medium",1.72771250863856
+"84","YBHM",2015,"Hamilton Island","HTI",10444,3,NA,3,"Hamilton Island Airport","","Australia","HTI",-20.3581,148.952,"Medium",2.87246265798545
+"85","YBHM",2006,"Hamilton Island","HTI",16160,10,NA,10,"Hamilton Island Airport","","Australia","HTI",-20.3581,148.952,"Medium",6.18811881188119
+"86","YBHM",2005,"Hamilton Island","HTI",14960,9,NA,9,"Hamilton Island Airport","","Australia","HTI",-20.3581,148.952,"Medium",6.01604278074866
+"87","YBHM",2013,"Hamilton Island","HTI",9366,6,NA,6,"Hamilton Island Airport","","Australia","HTI",-20.3581,148.952,"Medium",6.40614990390775
+"88","YBHM",2011,"Hamilton Island","HTI",11970,7,NA,7,"Hamilton Island Airport","","Australia","HTI",-20.3581,148.952,"Medium",5.84795321637427
+"89","YBHM",2004,"Hamilton Island","HTI",13500,5,NA,5,"Hamilton Island Airport","","Australia","HTI",-20.3581,148.952,"Medium",3.7037037037037
+"90","YBHM",2003,"Hamilton Island","HTI",14236,2,NA,2,"Hamilton Island Airport","","Australia","HTI",-20.3581,148.952,"Medium",1.40488901376791
+"91","YBHM",2007,"Hamilton Island","HTI",16536,10,NA,10,"Hamilton Island Airport","","Australia","HTI",-20.3581,148.952,"Medium",6.04741170778907
+"92","YBHM",2010,"Hamilton Island","HTI",10320,6,NA,6,"Hamilton Island Airport","","Australia","HTI",-20.3581,148.952,"Medium",5.81395348837209
+"93","YBHM",2009,"Hamilton Island","HTI",10842,5,NA,5,"Hamilton Island Airport","","Australia","HTI",-20.3581,148.952,"Medium",4.61169525917727
+"94","YBHM",2000,"Hamilton Island","HTI",21780,2,NA,2,"Hamilton Island Airport","","Australia","HTI",-20.3581,148.952,"Medium",0.918273645546373
+"95","YBHM",2014,"Hamilton Island","HTI",10378,1,NA,1,"Hamilton Island Airport","","Australia","HTI",-20.3581,148.952,"Medium",0.963576797070727
+"96","YBHM",2001,"Hamilton Island","HTI",15950,6,NA,6,"Hamilton Island Airport","","Australia","HTI",-20.3581,148.952,"Medium",3.76175548589342
+"114","YBMK",2012,"Mackay","MKY",42898,20,NA,20,"Mackay","Mackay","Australia","MKY",-21.171667,149.179722,"Medium",4.66222201501236
+"115","YBMK",2013,"Mackay","MKY",41550,20,NA,20,"Mackay","Mackay","Australia","MKY",-21.171667,149.179722,"Medium",4.81347773766546
+"118","YBMK",2002,"Mackay","MKY",37316,14,NA,14,"Mackay","Mackay","Australia","MKY",-21.171667,149.179722,"Medium",3.75174188015865
+"119","YBMK",2015,"Mackay","MKY",32122,17,NA,17,"Mackay","Mackay","Australia","MKY",-21.171667,149.179722,"Medium",5.292323018492
+"121","YBMK",2000,"Mackay","MKY",38720,4,NA,4,"Mackay","Mackay","Australia","MKY",-21.171667,149.179722,"Medium",1.03305785123967
+"122","YBMK",2011,"Mackay","MKY",45576,21,NA,21,"Mackay","Mackay","Australia","MKY",-21.171667,149.179722,"Medium",4.60768825697736
+"123","YBMK",2008,"Mackay","MKY",49732,12,NA,12,"Mackay","Mackay","Australia","MKY",-21.171667,149.179722,"Medium",2.41293332260918
+"124","YBMK",2014,"Mackay","MKY",37708,24,NA,24,"Mackay","Mackay","Australia","MKY",-21.171667,149.179722,"Medium",6.36469714649411
+"125","YBMK",2001,"Mackay","MKY",36506,13,NA,13,"Mackay","Mackay","Australia","MKY",-21.171667,149.179722,"Medium",3.5610584561442
+"127","YBMK",2004,"Mackay","MKY",45194,31,NA,31,"Mackay","Mackay","Australia","MKY",-21.171667,149.179722,"Medium",6.85931760853211
+"128","YBMK",2003,"Mackay","MKY",37902,8,NA,8,"Mackay","Mackay","Australia","MKY",-21.171667,149.179722,"Medium",2.11070655902063
+"129","YBNA",2009,"Ballina","BNK",18094,7,NA,7,"Ballina Byron Gateway","Ballina Byron Bay","Australia","BNK",-28.833889,153.5625,"Medium",3.86868575218304
+"130","YBNA",2011,"Ballina","BNK",26736,11,NA,11,"Ballina Byron Gateway","Ballina Byron Bay","Australia","BNK",-28.833889,153.5625,"Medium",4.11430281268701
+"131","YBNA",2010,"Ballina","BNK",17014,8,NA,8,"Ballina Byron Gateway","Ballina Byron Bay","Australia","BNK",-28.833889,153.5625,"Medium",4.70201010932174
+"132","YBNA",2008,"Ballina","BNK",15438,8,NA,8,"Ballina Byron Gateway","Ballina Byron Bay","Australia","BNK",-28.833889,153.5625,"Medium",5.18201839616531
+"133","YBNA",2007,"Ballina","BNK",10296,11,NA,11,"Ballina Byron Gateway","Ballina Byron Bay","Australia","BNK",-28.833889,153.5625,"Medium",10.6837606837607
+"134","YBRK",2002,"Rockhampton","ROK",34976,14,NA,14,"Rockhampton","Rockhampton","Australia","ROK",-23.381944,150.475278,"Medium",4.00274473924977
+"135","YBRK",2003,"Rockhampton","ROK",33522,40,NA,40,"Rockhampton","Rockhampton","Australia","ROK",-23.381944,150.475278,"Medium",11.9324622635881
+"136","YBRK",2015,"Rockhampton","ROK",29204,36,NA,36,"Rockhampton","Rockhampton","Australia","ROK",-23.381944,150.475278,"Medium",12.3270784823997
+"137","YBRK",2013,"Rockhampton","ROK",34840,51,NA,51,"Rockhampton","Rockhampton","Australia","ROK",-23.381944,150.475278,"Medium",14.638346727899
+"138","YBRK",2004,"Rockhampton","ROK",40744,32,NA,32,"Rockhampton","Rockhampton","Australia","ROK",-23.381944,150.475278,"Medium",7.85391714117416
+"139","YBRK",2006,"Rockhampton","ROK",46186,40,NA,40,"Rockhampton","Rockhampton","Australia","ROK",-23.381944,150.475278,"Medium",8.66063309227905
+"140","YBRK",2000,"Rockhampton","ROK",34868,15,NA,15,"Rockhampton","Rockhampton","Australia","ROK",-23.381944,150.475278,"Medium",4.30193874039234
+"141","YBRK",2012,"Rockhampton","ROK",37922,38,34,72,"Rockhampton","Rockhampton","Australia","ROK",-23.381944,150.475278,"Medium",18.9863403828912
+"142","YBRK",2005,"Rockhampton","ROK",45868,34,NA,34,"Rockhampton","Rockhampton","Australia","ROK",-23.381944,150.475278,"Medium",7.41257521583675
+"143","YBRK",2009,"Rockhampton","ROK",41682,39,NA,39,"Rockhampton","Rockhampton","Australia","ROK",-23.381944,150.475278,"Medium",9.35655678710235
+"144","YBRK",2014,"Rockhampton","ROK",32710,42,26,68,"Rockhampton","Rockhampton","Australia","ROK",-23.381944,150.475278,"Medium",20.7887496178539
+"145","YBRK",2008,"Rockhampton","ROK",39096,36,NA,36,"Rockhampton","Rockhampton","Australia","ROK",-23.381944,150.475278,"Medium",9.20810313075506
+"146","YBRK",2010,"Rockhampton","ROK",39288,53,NA,53,"Rockhampton","Rockhampton","Australia","ROK",-23.381944,150.475278,"Medium",13.490124210955
+"147","YBRK",2011,"Rockhampton","ROK",36622,36,NA,36,"Rockhampton","Rockhampton","Australia","ROK",-23.381944,150.475278,"Medium",9.83015673638796
+"148","YBRK",2001,"Rockhampton","ROK",36504,14,NA,14,"Rockhampton","Rockhampton","Australia","ROK",-23.381944,150.475278,"Medium",3.83519614288845
+"149","YBRK",2007,"Rockhampton","ROK",41232,19,NA,19,"Rockhampton","Rockhampton","Australia","ROK",-23.381944,150.475278,"Medium",4.60807140085371
+"161","YBTL",2004,"Townsville","TSV",46954,39,NA,39,"Townsville","Townsville","Australia","TSV",-19.2525,146.765278,"Medium",8.30600161860544
+"162","YBTL",2005,"Townsville","TSV",48100,36,NA,36,"Townsville","Townsville","Australia","TSV",-19.2525,146.765278,"Medium",7.48440748440748
+"166","YCBG",2005,"Cambridge","no code",17480,0,NA,0,NA,NA,NA,NA,-42.8281,147.4792,"Small",0
+"167","YCBG",2006,"Cambridge","no code",19106,0,NA,0,NA,NA,NA,NA,-42.8281,147.4792,"Small",0
+"168","YCBG",2000,"Cambridge","no code",28024,0,NA,0,NA,NA,NA,NA,-42.8281,147.4792,"Small",0
+"169","YCBG",2009,"Cambridge","no code",13598,0,NA,0,NA,NA,NA,NA,-42.8281,147.4792,"Small",0
+"170","YCBG",2010,"Cambridge","no code",13010,0,NA,0,NA,NA,NA,NA,-42.8281,147.4792,"Small",0
+"171","YCBG",2002,"Cambridge","no code",29724,0,NA,0,NA,NA,NA,NA,-42.8281,147.4792,"Small",0
+"172","YCBG",2012,"Cambridge","no code",14144,0,NA,0,NA,NA,NA,NA,-42.8281,147.4792,"Small",0
+"173","YCBG",2004,"Cambridge","no code",15908,0,NA,0,NA,NA,NA,NA,-42.8281,147.4792,"Small",0
+"174","YCBG",2013,"Cambridge","no code",15260,0,NA,0,NA,NA,NA,NA,-42.8281,147.4792,"Small",0
+"175","YCBG",2014,"Cambridge","no code",24316,0,NA,0,NA,NA,NA,NA,-42.8281,147.4792,"Small",0
+"176","YCBG",2001,"Cambridge","no code",26246,1,NA,1,NA,NA,NA,NA,-42.8281,147.4792,"Small",0.381010439686047
+"177","YCBG",2003,"Cambridge","no code",16804,1,NA,1,NA,NA,NA,NA,-42.8281,147.4792,"Small",0.59509640561771
+"178","YCBG",2008,"Cambridge","no code",15642,0,NA,0,NA,NA,NA,NA,-42.8281,147.4792,"Small",0
+"179","YCBG",2007,"Cambridge","no code",17894,0,NA,0,NA,NA,NA,NA,-42.8281,147.4792,"Small",0
+"180","YCBG",2011,"Cambridge","no code",10976,0,NA,0,NA,NA,NA,NA,-42.8281,147.4792,"Small",0
+"181","YCBG",2015,"Cambridge","no code",25260,0,NA,0,NA,NA,NA,NA,-42.8281,147.4792,"Small",0
+"182","YMAV",2012,"Avalon","AVV",5490,19,NA,19,"Avalon","Avalon","Australia","AVV",-38.039444,144.469444,"Medium",34.608378870674
+"183","YMAV",2009,"Avalon","AVV",7420,20,NA,20,"Avalon","Avalon","Australia","AVV",-38.039444,144.469444,"Medium",26.9541778975741
+"184","YMAV",2014,"Avalon","AVV",5452,11,NA,11,"Avalon","Avalon","Australia","AVV",-38.039444,144.469444,"Medium",20.1760821716801
+"185","YMAV",2015,"Avalon","AVV",7642,13,NA,13,"Avalon","Avalon","Australia","AVV",-38.039444,144.469444,"Medium",17.0112535985344
+"186","YMAV",2011,"Avalon","AVV",8942,14,NA,14,"Avalon","Avalon","Australia","AVV",-38.039444,144.469444,"Medium",15.6564526951465
+"187","YMAV",2006,"Avalon","AVV",8896,5,NA,5,"Avalon","Avalon","Australia","AVV",-38.039444,144.469444,"Medium",5.6205035971223
+"188","YMAV",2010,"Avalon","AVV",8362,20,NA,20,"Avalon","Avalon","Australia","AVV",-38.039444,144.469444,"Medium",23.9177230327673
+"189","YMAV",2007,"Avalon","AVV",9158,8,NA,8,"Avalon","Avalon","Australia","AVV",-38.039444,144.469444,"Medium",8.73553177549683
+"190","YMAV",2008,"Avalon","AVV",9192,8,NA,8,"Avalon","Avalon","Australia","AVV",-38.039444,144.469444,"Medium",8.70322019147084
+"191","YMAV",2013,"Avalon","AVV",5652,6,NA,6,"Avalon","Avalon","Australia","AVV",-38.039444,144.469444,"Medium",10.6157112526539
+"192","YMAY",2002,"Albury","ABX",29678,6,NA,6,"Albury","Albury","Australia","ABX",-36.067778,146.958056,"Medium",2.02169957544309
+"193","YMAY",2006,"Albury","ABX",29642,10,NA,10,"Albury","Albury","Australia","ABX",-36.067778,146.958056,"Medium",3.37359152553809
+"194","YMAY",2009,"Albury","ABX",28600,17,NA,17,"Albury","Albury","Australia","ABX",-36.067778,146.958056,"Medium",5.94405594405594
+"195","YMAY",2011,"Albury","ABX",29730,13,NA,13,"Albury","Albury","Australia","ABX",-36.067778,146.958056,"Medium",4.37268752102254
+"196","YMAY",2001,"Albury","ABX",30068,6,NA,6,"Albury","Albury","Australia","ABX",-36.067778,146.958056,"Medium",1.99547691898364
+"197","YMAY",2012,"Albury","ABX",30432,14,NA,14,"Albury","Albury","Australia","ABX",-36.067778,146.958056,"Medium",4.60042060988433
+"198","YMAY",2003,"Albury","ABX",31024,2,NA,2,"Albury","Albury","Australia","ABX",-36.067778,146.958056,"Medium",0.644662197008767
+"199","YMAY",2015,"Albury","ABX",38766,13,NA,13,"Albury","Albury","Australia","ABX",-36.067778,146.958056,"Medium",3.35345405767941
+"200","YMAY",2013,"Albury","ABX",30072,19,NA,19,"Albury","Albury","Australia","ABX",-36.067778,146.958056,"Medium",6.31816972599095
+"201","YMAY",2000,"Albury","ABX",34274,4,NA,4,"Albury","Albury","Australia","ABX",-36.067778,146.958056,"Medium",1.16706541401646
+"202","YMAY",2014,"Albury","ABX",42008,13,NA,13,"Albury","Albury","Australia","ABX",-36.067778,146.958056,"Medium",3.0946486383546
+"203","YMAY",2008,"Albury","ABX",31198,11,NA,11,"Albury","Albury","Australia","ABX",-36.067778,146.958056,"Medium",3.52586704275915
+"204","YMAY",2005,"Albury","ABX",30150,10,NA,10,"Albury","Albury","Australia","ABX",-36.067778,146.958056,"Medium",3.3167495854063
+"205","YMAY",2004,"Albury","ABX",31848,10,NA,10,"Albury","Albury","Australia","ABX",-36.067778,146.958056,"Medium",3.13991459432303
+"206","YMAY",2010,"Albury","ABX",27648,12,NA,12,"Albury","Albury","Australia","ABX",-36.067778,146.958056,"Medium",4.34027777777778
+"207","YMAY",2007,"Albury","ABX",31054,16,NA,16,"Albury","Albury","Australia","ABX",-36.067778,146.958056,"Medium",5.15231532169769
+"224","YMES",2013,"East Sale","SXE",26626,9,NA,9,"East Sale","East Sale","Australia","",-38.098889,147.149444,"Medium",3.38015473597236
+"225","YMHB",2015,"Hobart","HBA",27386,12,NA,12,"Hobart","Hobart","Australia","HBA",-42.836111,147.510278,"Medium",4.38180092017819
+"226","YMHB",2009,"Hobart","HBA",29008,22,NA,22,"Hobart","Hobart","Australia","HBA",-42.836111,147.510278,"Medium",7.58411472697187
+"227","YMHB",2012,"Hobart","HBA",22774,12,5,17,"Hobart","Hobart","Australia","HBA",-42.836111,147.510278,"Medium",7.46465267410205
+"228","YMHB",2011,"Hobart","HBA",30418,16,NA,16,"Hobart","Hobart","Australia","HBA",-42.836111,147.510278,"Medium",5.26004339535801
+"229","YMHB",2005,"Hobart","HBA",30344,27,NA,27,"Hobart","Hobart","Australia","HBA",-42.836111,147.510278,"Medium",8.89796994463485
+"230","YMHB",2001,"Hobart","HBA",19208,16,NA,16,"Hobart","Hobart","Australia","HBA",-42.836111,147.510278,"Medium",8.32986255726781
+"231","YMHB",2010,"Hobart","HBA",29786,18,NA,18,"Hobart","Hobart","Australia","HBA",-42.836111,147.510278,"Medium",6.04310750016786
+"232","YMHB",2013,"Hobart","HBA",24406,10,NA,10,"Hobart","Hobart","Australia","HBA",-42.836111,147.510278,"Medium",4.09735310989101
+"233","YMHB",2000,"Hobart","HBA",15762,5,NA,5,"Hobart","Hobart","Australia","HBA",-42.836111,147.510278,"Medium",3.17218627077782
+"234","YMHB",2006,"Hobart","HBA",30576,29,NA,29,"Hobart","Hobart","Australia","HBA",-42.836111,147.510278,"Medium",9.48456305599163
+"235","YMHB",2007,"Hobart","HBA",30878,31,NA,31,"Hobart","Hobart","Australia","HBA",-42.836111,147.510278,"Medium",10.03951033098
+"236","YMHB",2002,"Hobart","HBA",21286,20,NA,20,"Hobart","Hobart","Australia","HBA",-42.836111,147.510278,"Medium",9.39584703561026
+"237","YMHB",2003,"Hobart","HBA",30242,19,NA,19,"Hobart","Hobart","Australia","HBA",-42.836111,147.510278,"Medium",6.28265326367304
+"238","YMHB",2014,"Hobart","HBA",25560,19,NA,19,"Hobart","Hobart","Australia","HBA",-42.836111,147.510278,"Medium",7.43348982785603
+"239","YMHB",2008,"Hobart","HBA",29772,23,NA,23,"Hobart","Hobart","Australia","HBA",-42.836111,147.510278,"Medium",7.72537955125621
+"240","YMHB",2004,"Hobart","HBA",27606,10,NA,10,"Hobart","Hobart","Australia","HBA",-42.836111,147.510278,"Medium",3.62240092733464
+"241","YMLT",2011,"Launceston","LST",20374,9,NA,9,"Launceston","Launceston","Australia","LST",-41.545278,147.214167,"Medium",4.4173947187592
+"242","YMLT",2013,"Launceston","LST",22540,13,NA,13,"Launceston","Launceston","Australia","LST",-41.545278,147.214167,"Medium",5.76752440106477
+"243","YMLT",2003,"Launceston","LST",18128,1,NA,1,"Launceston","Launceston","Australia","LST",-41.545278,147.214167,"Medium",0.551632833186231
+"244","YMLT",2001,"Launceston","LST",23212,14,NA,14,"Launceston","Launceston","Australia","LST",-41.545278,147.214167,"Medium",6.0313630880579
+"245","YMLT",2008,"Launceston","LST",20922,21,NA,21,"Launceston","Launceston","Australia","LST",-41.545278,147.214167,"Medium",10.0372813306567
+"246","YMLT",2002,"Launceston","LST",19196,9,NA,9,"Launceston","Launceston","Australia","LST",-41.545278,147.214167,"Medium",4.68847676599291
+"247","YMLT",2005,"Launceston","LST",19148,9,NA,9,"Launceston","Launceston","Australia","LST",-41.545278,147.214167,"Medium",4.70022978901191
+"248","YMLT",2004,"Launceston","LST",19130,9,NA,9,"Launceston","Launceston","Australia","LST",-41.545278,147.214167,"Medium",4.70465237846315
+"249","YMLT",2006,"Launceston","LST",20560,6,NA,6,"Launceston","Launceston","Australia","LST",-41.545278,147.214167,"Medium",2.91828793774319
+"250","YMLT",2009,"Launceston","LST",19170,12,NA,12,"Launceston","Launceston","Australia","LST",-41.545278,147.214167,"Medium",6.25978090766823
+"251","YMLT",2014,"Launceston","LST",22160,19,NA,19,"Launceston","Launceston","Australia","LST",-41.545278,147.214167,"Medium",8.57400722021661
+"252","YMLT",2000,"Launceston","LST",26384,2,NA,2,"Launceston","Launceston","Australia","LST",-41.545278,147.214167,"Medium",0.758035172832019
+"253","YMLT",2015,"Launceston","LST",20750,7,NA,7,"Launceston","Launceston","Australia","LST",-41.545278,147.214167,"Medium",3.37349397590361
+"254","YMLT",2007,"Launceston","LST",20350,8,NA,8,"Launceston","Launceston","Australia","LST",-41.545278,147.214167,"Medium",3.93120393120393
+"255","YMLT",2010,"Launceston","LST",20030,11,NA,11,"Launceston","Launceston","Australia","LST",-41.545278,147.214167,"Medium",5.4917623564653
+"256","YMLT",2012,"Launceston","LST",19930,17,8,25,"Launceston","Launceston","Australia","LST",-41.545278,147.214167,"Medium",12.5439036628199
+"305","YPBR",2014,"Broome","BME",32348,18,NA,18,"Broome","Broome","Australia","BME",-17.8,122.2,NA,5.56448621243972
+"306","YPBR",2011,"Broome","BME",31652,16,NA,16,"Broome","Broome","Australia","BME",-17.8,122.2,NA,5.05497282952104
+"307","YPBR",2015,"Broome","BME",29424,8,NA,8,"Broome","Broome","Australia","BME",-17.8,122.2,NA,2.71886895051659
+"308","YPBR",2012,"Broome","BME",32754,13,NA,13,"Broome","Broome","Australia","BME",-17.8,122.2,NA,3.96898088783049
+"309","YPBR",2013,"Broome","BME",31654,26,NA,26,"Broome","Broome","Australia","BME",-17.8,122.2,NA,8.21381184052568
+"342","YPKA",2011,"Karratha","KTA",32968,26,NA,26,"Karratha","Karratha","Australia","KTA",-20.712222,116.773333,"Medium",7.88643533123028
+"343","YPKA",2012,"Karratha","KTA",31546,15,NA,15,"Karratha","Karratha","Australia","KTA",-20.712222,116.773333,"Medium",4.75496100931972
+"344","YPKA",2015,"Karratha","KTA",30512,8,NA,8,"Karratha","Karratha","Australia","KTA",-20.712222,116.773333,"Medium",2.62191924488726
+"345","YPKA",2014,"Karratha","KTA",22410,17,NA,17,"Karratha","Karratha","Australia","KTA",-20.712222,116.773333,"Medium",7.58589915216421
+"346","YPKA",2013,"Karratha","KTA",31512,11,NA,11,"Karratha","Karratha","Australia","KTA",-20.712222,116.773333,"Medium",3.49073368875349
+"411","YSCH",2004,"Coffs Harbour","CFS",26574,5,NA,5,"Coffs Harbour","Coff's Harbour","Australia","CFS",-30.320556,153.116389,"Medium",1.88153834575149
+"412","YSCH",2008,"Coffs Harbour","CFS",30268,8,NA,8,"Coffs Harbour","Coff's Harbour","Australia","CFS",-30.320556,153.116389,"Medium",2.64305537201004
+"413","YSCH",2013,"Coffs Harbour","CFS",27202,9,NA,9,"Coffs Harbour","Coff's Harbour","Australia","CFS",-30.320556,153.116389,"Medium",3.3085802514521
+"414","YSCH",2003,"Coffs Harbour","CFS",30588,7,NA,7,"Coffs Harbour","Coff's Harbour","Australia","CFS",-30.320556,153.116389,"Medium",2.28847914214725
+"415","YSCH",2014,"Coffs Harbour","CFS",26226,22,NA,22,"Coffs Harbour","Coff's Harbour","Australia","CFS",-30.320556,153.116389,"Medium",8.38862197818958
+"416","YSCH",2001,"Coffs Harbour","CFS",41320,3,NA,3,"Coffs Harbour","Coff's Harbour","Australia","CFS",-30.320556,153.116389,"Medium",0.726040658276864
+"417","YSCH",2005,"Coffs Harbour","CFS",28340,13,NA,13,"Coffs Harbour","Coff's Harbour","Australia","CFS",-30.320556,153.116389,"Medium",4.58715596330275
+"418","YSCH",2012,"Coffs Harbour","CFS",24398,10,10,20,"Coffs Harbour","Coff's Harbour","Australia","CFS",-30.320556,153.116389,"Medium",8.19739322895319
+"419","YSCH",2015,"Coffs Harbour","CFS",20574,12,NA,12,"Coffs Harbour","Coff's Harbour","Australia","CFS",-30.320556,153.116389,"Medium",5.83260425780111
+"420","YSCH",2010,"Coffs Harbour","CFS",25056,10,NA,10,"Coffs Harbour","Coff's Harbour","Australia","CFS",-30.320556,153.116389,"Medium",3.99106002554278
+"421","YSCH",2009,"Coffs Harbour","CFS",28782,10,NA,10,"Coffs Harbour","Coff's Harbour","Australia","CFS",-30.320556,153.116389,"Medium",3.47439371829616
+"422","YSCH",2006,"Coffs Harbour","CFS",25846,8,NA,8,"Coffs Harbour","Coff's Harbour","Australia","CFS",-30.320556,153.116389,"Medium",3.09525651938404
+"423","YSCH",2002,"Coffs Harbour","CFS",37390,3,NA,3,"Coffs Harbour","Coff's Harbour","Australia","CFS",-30.320556,153.116389,"Medium",0.802353570473389
+"424","YSCH",2007,"Coffs Harbour","CFS",28630,14,NA,14,"Coffs Harbour","Coff's Harbour","Australia","CFS",-30.320556,153.116389,"Medium",4.88997555012225
+"425","YSCH",2000,"Coffs Harbour","CFS",38916,11,NA,11,"Coffs Harbour","Coff's Harbour","Australia","CFS",-30.320556,153.116389,"Medium",2.82660088395519
+"426","YSCH",2011,"Coffs Harbour","CFS",27248,10,NA,10,"Coffs Harbour","Coff's Harbour","Australia","CFS",-30.320556,153.116389,"Medium",3.6699941280094
+"427","YSCN",2008,"Camden","CDU",27512,1,NA,1,"Camden","Camden","Australia","CDU",-34.040278,150.687222,"Medium",0.363477755161384
+"429","YSCN",2005,"Camden","CDU",31278,1,NA,1,"Camden","Camden","Australia","CDU",-34.040278,150.687222,"Medium",0.319713536671143
+"430","YSCN",2004,"Camden","CDU",30080,1,NA,1,"Camden","Camden","Australia","CDU",-34.040278,150.687222,"Medium",0.332446808510638
+"432","YSCN",2009,"Camden","CDU",36766,1,NA,1,"Camden","Camden","Australia","CDU",-34.040278,150.687222,"Medium",0.271990425937007
+"433","YSCN",2006,"Camden","CDU",22804,1,NA,1,"Camden","Camden","Australia","CDU",-34.040278,150.687222,"Medium",0.438519557972286
+"434","YSCN",2003,"Camden","CDU",46264,1,NA,1,"Camden","Camden","Australia","CDU",-34.040278,150.687222,"Medium",0.216150786788864
+"441","YSCN",2007,"Camden","CDU",12470,1,NA,1,"Camden","Camden","Australia","CDU",-34.040278,150.687222,"Medium",0.801924619085806

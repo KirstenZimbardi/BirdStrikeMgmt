@@ -1,0 +1,223 @@
+airport_id,name,city,country,iata_faa,iaco,latitude,longitude,altitude,zone,dst
+6809,Maitland Airport,Maitland,Australia,MTL,YMND,-32.7033,151.488,75,10,O
+6808,Mudgee Airport,Mudgee,Australia,DGE,YMDG,-32.5625,149.611,1545,10,O
+6870,Whitsunday Airstrip,Airlie Beach,Australia,WSY,YWHI,-20.276,148.755,60,10,O
+6807,Scone Airport,Scone,Australia,NSO,YSCO,-32.0372,150.832,745,10,O
+6806,Cessnock Airport,Cessnock,Australia,CES,YCNK,-32.7875,151.342,211,10,O
+6860,Bungle Bungle Airport,Bungle Bungle,Australia,,YBUU,-17.5453,128.307,0,9.5,U
+6829,Orchid Beach,Fraser Island,Australia,OKB,KOKB,-24.95841,153.3145,6,-10,O
+3317,Brisbane Archerfield,Brisbane,Australia,,YBAF,-27.570278,153.008056,63,10,O
+3318,Bamaga Injinoo,Amberley,Australia,ABM,YBAM,-10.950833,142.459444,34,10,O
+3319,Alice Springs,Alice Springs,Australia,ASP,YBAS,-23.806667,133.902222,1789,9.5,N
+3320,Brisbane Intl,Brisbane,Australia,BNE,YBBN,-27.384167,153.1175,13,10,O
+3321,Gold Coast,Coolangatta,Australia,OOL,YBCG,-28.164444,153.504722,21,10,N
+3322,Cairns Intl,Cairns,Australia,CNS,YBCS,-16.885833,145.755278,10,10,N
+3323,Charleville,Charlieville,Australia,CTL,YBCV,-26.413334,146.2625,1003,10,O
+3324,Mount Isa,Mount Isa,Australia,ISA,YBMA,-20.663889,139.488611,1121,10,O
+3325,Maroochydore Sunshine Coast,Maroochydore,Australia,MCY,YBMC,-26.603333,153.091111,15,10,O
+3326,Mackay,Mackay,Australia,MKY,YBMK,-21.171667,149.179722,19,10,O
+3328,Proserpine Whitsunday Coast,Prosserpine,Australia,PPP,YBPN,-20.495,148.552222,82,10,O
+3329,Rockhampton,Rockhampton,Australia,ROK,YBRK,-23.381944,150.475278,34,10,O
+3330,Townsville,Townsville,Australia,TSV,YBTL,-19.2525,146.765278,18,10,N
+3331,Weipa,Weipa,Australia,WEI,YBWP,-12.678611,141.925278,63,10,O
+3332,Avalon,Avalon,Australia,AVV,YMAV,-38.039444,144.469444,35,10,O
+3333,Albury,Albury,Australia,ABX,YMAY,-36.067778,146.958056,539,10,O
+3334,Melbourne Essendon,Melbourne,Australia,MEB,YMEN,-37.728056,144.901944,282,10,O
+3335,East Sale,East Sale,Australia,,YMES,-38.098889,147.149444,23,10,O
+3336,Hobart,Hobart,Australia,HBA,YMHB,-42.836111,147.510278,13,10,O
+3337,Launceston,Launceston,Australia,LST,YMLT,-41.545278,147.214167,562,10,O
+3338,Melbourne Moorabbin,Melbourne,Australia,MBW,YMMB,-37.975833,145.102222,50,10,O
+3339,Melbourne Intl,Melbourne,Australia,MEL,YMML,-37.673333,144.843333,434,10,O
+3340,Point Cook,Point Cook,Australia,,YMPC,-37.932222,144.753333,14,10,O
+3341,Adelaide Intl,Adelaide,Australia,ADL,YPAD,-34.945,138.530556,20,9.5,O
+3343,Edinburgh,Edinburgh,Australia,,YPED,-34.7025,138.620833,67,9.5,O
+3344,Perth Jandakot,Perth,Australia,JAD,YPJT,-32.0975,115.881111,99,8,O
+3345,Karratha,Karratha,Australia,KTA,YPKA,-20.712222,116.773333,29,8,O
+3346,Kalgoorlie Boulder,Kalgoorlie,Australia,KGI,YPKG,-30.789444,121.461667,1203,8,O
+3347,Kununurra,Kununurra,Australia,KNX,YPKU,-15.778056,128.7075,145,8,O
+3348,Learmonth,Learmonth,Australia,LEA,YPLM,-22.235556,114.088611,19,8,O
+3349,Port Hedland Intl,Port Hedland,Australia,PHE,YPPD,-20.377778,118.626389,33,8,O
+3350,Adelaide Parafield,Adelaide,Australia,,YPPF,-34.793333,138.633056,57,9.5,O
+3351,Perth Intl,Perth,Australia,PER,YPPH,-31.940278,115.966944,67,8,N
+3352,Woomera,Woomera,Australia,UMR,YPWR,-31.144167,136.816944,548,9.5,O
+3354,Sydney Bankstown,Sydney,Australia,BWU,YSBK,-33.924444,150.988333,29,10,O
+3355,Canberra,Canberra,Australia,CBR,YSCB,-35.306944,149.195,1886,10,O
+3356,Coffs Harbour,Coff's Harbour,Australia,CFS,YSCH,-30.320556,153.116389,18,10,O
+3357,Camden,Camden,Australia,CDU,YSCN,-34.040278,150.687222,230,10,O
+3358,Dubbo,Dubbo,Australia,DBO,YSDU,-32.216667,148.574722,935,10,O
+3360,Richmond,Richmond,Australia,RCM,YSRI,-33.600556,150.780833,67,10,O
+3361,Sydney Intl,Sydney,Australia,SYD,YSSY,-33.946111,151.177222,21,10,O
+3362,Tamworth,Tamworth,Australia,TMW,YSTW,-31.083889,150.846667,1334,10,O
+3363,Wagga Wagga,Wagga Wagga,Australia,WGA,YSWG,-35.165278,147.466389,724,10,O
+3990,Emerald,Emerald,Australia,EMD,YEML,-23.5675,148.179167,624,10,O
+3999,Darwin Intl,Darwin,Australia,DRW,YPDN,-12.4083333,130.87266,103,9.5,N
+4010,Ayers Rock,Uluru,Australia,AYQ,YAYE,-25.186111,130.975556,1626,9.5,N
+4051,Kingscote Airport,Kingscote,Australia,KGC,YKSC,-35.713889,137.521389,24,9.5,O
+4052,Hervey Bay Airport,Hervey Bay,Australia,HVB,YHBA,-25.318889,152.880278,60,10,O
+4062,Armidale,Armidale,Australia,ARM,YARM,-30.528056,151.617222,3556,10,O
+4217,Blackall,Blackall,Australia,BKQ,YBCK,-24.427778,145.428611,928,10,O
+4218,Bundaberg,Bundaberg,Australia,BDB,YBUD,-24.903889,152.318611,107,10,O
+4221,Hayman Island Airport,Hayman Island,Australia,HIS,YHYN,-20.066668,148.86667,10,10,O
+4289,Thangool,Biloela,Australia,THG,YTNG,-24.493889,150.576111,644,10,O
+4291,Ballina Byron Gateway,Ballina Byron Bay,Australia,BNK,YBNA,-28.833889,153.5625,7,10,O
+4319,Broome,Broome,Australia,BME,YPBR,-17.8,122.2,56,8,O
+4320,Newcastle Airport,Newcastle,Australia,NTL,YWLM,-32.78,151.83,31,10,O
+6805,Goulburn Airport,Goulburn,Australia,GUL,YGLB,-34.8103,149.726,2141,10,O
+6235,Albany Airport,Albany,Australia,ALH,YABA,-34.9433,117.809,233,8,O
+6236,Argyle Airport,,Australia,GYL,YARG,-16.6369,128.451,522,8,O
+6237,Aurukun Airport,,Australia,AUU,YAUR,-13.3539,141.721,31,10,O
+6238,Barcaldine Airport,,Australia,BCI,YBAR,-23.5653,145.307,878,10,O
+6239,Badu Island Airport,,Australia,BDD,YBAU,-10.15,141.175,14,9,O
+6240,Birdsville Airport,,Australia,BVI,YBDV,-25.8975,139.348,159,10,O
+6241,Broken Hill Airport,,Australia,BHQ,YBHI,-32.0014,141.472,958,9.5,O
+6242,Hamilton Island Airport,,Australia,HTI,YBHM,-20.3581,148.952,15,10,O
+6243,Bedourie Airport,,Australia,BEU,YBIE,-24.3461,139.46,300,10,O
+6244,Bourke Airport,,Australia,BRK,YBKE,-30.0392,145.952,352,10,O
+6245,Burketown Airport,,Australia,BUC,YBKT,-17.7486,139.534,21,10,O
+6246,Boigu Airport,,Australia,GIC,YBOI,-9.23278,142.218,23,10,O
+6247,Oakey Airport,Oakey,Australia,OKY,YBOK,-27.411389,151.735278,1335,10,O
+6248,Boulia Airport,,Australia,BQL,YBOU,-22.9133,139.9,542,10,O
+6249,Bathurst Airport,,Australia,BHS,YBTH,-33.4094,149.652,2435,10,O
+6250,Blackwater Airport,,Australia,BLT,YBTR,-23.6031,148.807,657,10,O
+6251,Carnarvon Airport,,Australia,CVQ,YCAR,-24.8806,113.672,13,8,O
+6252,Cobar Airport,,Australia,CAZ,YCBA,-31.5383,145.794,724,10,O
+6253,Coober Pedy Airport,,Australia,CPD,YCBP,-29.04,134.721,740,9.5,O
+6254,Coconut Island Airport,,Australia,CNC,YCCT,-10.05,143.07,3,10,O
+6255,Cloncurry Airport,,Australia,CNJ,YCCY,-20.6686,140.504,616,10,O
+6256,Ceduna Airport,,Australia,CED,YCDU,-32.1306,133.71,77,9.5,O
+6257,Cooktown Airport,,Australia,CTN,YCKN,-15.4447,145.184,26,10,O
+6258,Cunnamulla Airport,,Australia,CMA,YCMU,-28.03,145.622,630,10,O
+6259,Coonamble Airport,,Australia,CNB,YCNM,-30.9833,148.376,604,10,O
+6260,Coen Airport,,Australia,CUQ,YCOE,-13.7608,143.114,532,10,O
+6261,Cooma Snowy Mountains Airport,,Australia,OOM,YCOM,-36.3006,148.974,3088,10,O
+6262,Doomadgee Airport,,Australia,DMD,YDMG,-17.9403,138.822,153,10,O
+6263,Darnley Island Airport,Darnley Island,Australia,NLF,YDNI,-9.58333,143.767,0,10,O
+6264,Devonport Airport,,Australia,DPO,YDPO,-41.1697,146.43,33,10,O
+6265,Elcho Island Airport,,Australia,ELC,YELD,-12.0194,135.571,101,9.5,O
+6266,Esperance Airport,,Australia,EPR,YESP,-33.6844,121.823,470,8,O
+6267,Flinders Island Airport,,Australia,FLS,YFLI,-40.0917,147.993,10,10,O
+6268,Geraldton Airport,,Australia,GET,YGEL,-28.7961,114.707,121,8,O
+6269,Gladstone Airport,,Australia,GLT,YGLA,-23.8697,151.223,64,10,O
+6270,Groote Eylandt Airport,,Australia,GTE,YGTE,-13.975,136.46,53,9.5,O
+6271,Griffith Airport,,Australia,GFF,YGTH,-34.2508,146.067,439,10,O
+6272,Horn Island Airport,,Australia,HID,YHID,-10.5864,142.29,43,10,O
+6273,Hooker Creek Airport,,Australia,HOK,YHOO,-18.3367,130.638,320,9.5,O
+6274,Mount Hotham Airport,,Australia,MHU,YHOT,-37.0475,147.334,4260,10,O
+6275,Hughenden Airport,,Australia,HGD,YHUG,-20.815,144.225,1043,10,O
+6276,Julia Creek Airport,,Australia,JCK,YJLC,-20.6683,141.723,404,10,O
+6277,Kalbarri Airport,,Australia,KAX,YKBR,-27.69,114.262,157,8,O
+6278,King Island Airport,,Australia,KNS,YKII,-39.8775,143.878,132,10,O
+6279,Kalkgurung Airport,,Australia,KFG,YKKG,-17.4319,130.808,646,9.5,O
+6280,Karumba Airport,,Australia,KRB,YKMB,-17.4567,140.83,5,10,O
+6281,Kowanyama Airport,,Australia,KWM,YKOW,-15.4856,141.751,35,10,O
+6282,Kubin Airport,,Australia,KUG,YKUB,-10.225,142.218,15,9,O
+6283,Leonora Airport,Leonora,Australia,LNO,YLEO,-28.8781,121.315,1217,8,O
+6284,Lake Evella Airport,,Australia,LEL,YLEV,-12.4989,135.806,256,9.5,O
+6285,Lord Howe Island Airport,,Australia,LDH,YLHI,-31.5383,159.077,5,10.5,O
+6286,Lockhart River Airport,,Australia,IRG,YLHR,-12.7869,143.305,77,10,O
+6287,Lismore Airport,,Australia,LSY,YLIS,-28.8303,153.26,35,10,O
+6288,Lightning Ridge Airport,,Australia,LHG,YLRD,-29.4567,147.984,540,10,O
+6289,Longreach Airport,,Australia,LRE,YLRE,-23.4342,144.28,627,10,O
+6290,Leinster Airport,,Australia,LER,YLST,-27.8433,120.703,1631,8,O
+6291,Laverton Airport,,Australia,LVO,YLTN,-28.6136,122.424,1530,8,O
+6292,Mabuiag Island Airport,Mabuiag Island,Australia,UBB,YMAA,-9.95,142.183,0,9,O
+6293,Meekatharra Airport,,Australia,MKR,YMEK,-26.6117,118.548,1713,8,O
+6294,Merimbula Airport,,Australia,MIM,YMER,-36.9086,149.901,7,10,O
+6295,Milingimbi Airport,,Australia,MGT,YMGB,-12.0944,134.894,53,9.5,O
+6296,Maningrida Airport,,Australia,MNG,YMGD,-12.0561,134.234,123,9.5,O
+6297,McArthur River Mine Airport,,Australia,MCV,YMHU,-16.4425,136.084,131,9.5,O
+6298,Mildura Airport,,Australia,MQL,YMIA,-34.2292,142.086,167,10,O
+6299,Mount Magnet Airport,,Australia,MMG,YMOG,-28.1161,117.842,1354,8,O
+6300,Moree Airport,,Australia,MRZ,YMOR,-29.4989,149.845,701,10,O
+6301,Moranbah Airport,,Australia,MOV,YMRB,-22.0578,148.077,770,10,O
+6302,Moruya Airport,,Australia,MYA,YMRY,-35.8978,150.144,14,10,O
+6303,Mount Gambier Airport,,Australia,MGB,YMTG,-37.7456,140.785,212,9.5,O
+6304,Mornington Island Airport,,Australia,ONG,YMTI,-16.6625,139.178,33,9,O
+6305,Murray Island Airport,Murray Island,Australia,MYI,YMUI,-9.91667,144.055,0,10,O
+6306,Maryborough Airport,,Australia,MBH,YMYB,-25.5133,152.715,38,10,O
+6307,Narrandera Airport,,Australia,NRA,YNAR,-34.7022,146.512,474,10,O
+6308,Narrabri Airport,,Australia,NAA,YNBR,-30.3192,149.827,788,10,O
+6309,Normanton Airport,,Australia,NTN,YNTN,-17.6836,141.07,73,10,O
+6310,Newman Airport,Newman,Australia,ZNE,YNWN,-23.4178,119.803,1724,8,O
+6311,Olympic Dam Airport,,Australia,OLP,YOLD,-30.485,136.877,343,9.5,O
+6312,Port Augusta Airport,Argyle,Australia,PUG,YPAG,-32.506944,137.716667,56,9.5,O
+6313,Palm Island Airport,,Australia,PMK,YPAM,-18.7553,146.581,28,10,O
+6314,Paraburdoo Airport,,Australia,PBO,YPBO,-23.1711,117.745,1406,8,O
+6316,Gove Airport,,Australia,GOV,YPGV,-12.2694,136.818,192,9.5,O
+6317,Parkes Airport,,Australia,PKE,YPKS,-33.1314,148.239,1069,10,O
+6318,Port Lincoln Airport,,Australia,PLO,YPLC,-34.6053,135.88,36,9.5,O
+6319,Pormpuraaw Airport,,Australia,EDR,YPMP,-14.8967,141.609,10,10,O
+6320,Port Macquarie Airport,,Australia,PQQ,YPMQ,-31.4358,152.863,12,10,O
+6321,Portland Airport,,Australia,PTJ,YPOD,-38.3181,141.471,265,10,O
+6322,Quilpie Airport,,Australia,ULP,YQLP,-26.6122,144.253,655,10,O
+6323,Ramingining Airport,,Australia,RAM,YRNG,-12.3564,134.898,206,9.5,O
+6324,Roma Airport,,Australia,RMA,YROM,-26.545,148.775,1032,10,O
+6325,St George Airport,,Australia,SGO,YSGE,-28.0497,148.595,656,10,O
+6326,Shark Bay Airport,,Australia,DNM,YSHK,-25.8939,113.577,111,8,O
+6327,Saibai Island Airport,Saibai Island,Australia,SBR,YSII,-9.37833,142.625,0,10,O
+6328,Strahan Airport,,Australia,SRN,YSRN,-42.155,145.292,20,10,O
+6329,Thargomindah Airport,,Australia,XTG,YTGM,-27.9864,143.811,433,10,O
+6330,Tennant Creek Airport,Tennant Creek,Australia,TCA,YTNK,-19.6344,134.183,1236,9.5,O
+6331,Victoria River Downs Airport,,Australia,VCD,YVRD,-16.4033,131.002,89,9.5,O
+6332,Warraber Island Airport,Sue Islet,Australia,SYU,YWBS,-10.2083,142.825,3,10,O
+6333,Windorah Airport,,Australia,WNR,YWDH,-25.4131,142.667,452,10,O
+6334,Whyalla Airport,Whyalla,Australia,WYA,YWHA,-33.0589,137.514,41,9.5,O
+6335,Wiluna Airport,,Australia,WUN,YWLU,-26.6292,120.221,1649,8,O
+6336,Wollongong Airport,,Australia,WOL,YWOL,-34.5611,150.789,31,10,O
+6337,Winton Airport,,Australia,WIN,YWTN,-22.3636,143.086,638,10,O
+6338,Wynyard Airport,Burnie,Australia,BWT,YWYY,-40.9989,145.731,62,10,O
+6339,Yorke Island Airport,Yorke Island,Australia,OKR,YYKI,-9.75703,143.411,0,10,O
+6340,Yam Island Airport,Yam Island,Australia,XMY,YYMI,-9.90111,142.776,0,10,O
+6419,Mount Keith,Mount Keith,Australia,WME,YMNE,-27.286389,120.554722,1792,8,O
+6915,Bendigo Airport,Bendigo,Australia,,YBDG,-36.7394,144.33,705,11,U
+6914,RAAF Pearce,Perth,Australia,,YPEA,-31.66778,116.015,149,8,O
+6899,Nowra Airport,Nowra,Australia,NOA,YSNW,-34.9489,150.537,400,10,O
+6898,RAAF Williams Laverton Base,Laverton,Australia,,YLVT,-37.8636,144.746,18,9,O
+6897,Tindal Airport,Katherine,Australia,KTR,YPTN,-14.5211,132.378,443,9,O
+6896,Amberley,Amberley,Australia,,YAMB,-27.64,152.712,91,10,O
+6794,Taree Airport,,Australia,TRO,YTRE,-31.8886,152.514,38,10,U
+6793,Orange Airport,,Australia,OAG,YORG,-33.3817,149.133,3115,10,U
+6792,Grafton Airport,,Australia,GFN,YGFN,-29.7594,153.03,110,10,U
+7128,Toowoomba,Toowoomba,Australia,TWB,YTWB,-27.542778,151.916389,2086,10,N
+7129,Ballera,Ballera,Australia,,YLLE,-27.408333,141.808333,385,10,N
+7130,Gatton,Gatton,Australia,,YGAT,-27.55830002,152.3419952,400,10,N
+7566,Barrow Island Airport,Barrow Island,Australia,BWB,YBWX,-20.798,115.406,25,8,U
+7567,Morawa Airport,Morawa,Australia,MWB,,-29.211,116.009,899,8,U
+7568,Exmouth Airport,Exmouth,Australia,EXM,,-21.933,114.128,50,8,U
+7569,Derby Airport,Derby,Australia,DRB,YDBY,-17.39,123.68,26,8,U
+7570,Walgett Airport,Walgett,Australia,WGE,YWLG,-30.0318,148.1222,439,10,U
+7571,Bathurst Island Airport,Bathurst Island,Australia,BRT,YBTI,-11.769167,130.619722,67,9.5,U
+7572,Dunk Island Airport,Dunk Island,Australia,DKI,YDKI,-17.939722,146.141944,38,10,U
+7573,Lizard Island Airport,Lizard Island,Australia,LZR,YLZI,-14.673056,145.454444,40,10,O
+7574,Hamilton Airport,Hamilton,Australia,HLT,YHML,-37.648889,142.065278,803,10,O
+7575,Halls Creek Airport,Halls Creek,Australia,HCQ,YHLC,-18.233889,127.669722,1346,8,U
+7576,Fitzroy Crossing Airport,Fitzroy Crossing,Australia,FIZ,YFTZ,-18.178,125.591,374,8,U
+7577,Ravensthorpe Airport,Ravensthorpe,Australia,RVT,YNRV,-33.797222,120.208056,209,8,U
+7636,Heron Island,Heron Island,Australia,HRN,,-23.441667,151.911389,0,10,O
+7637,Lady Elliot Island,Lady Elliot Island,Australia,LYT,,-24.113333,152.715278,0,10,O
+7638,Orpheus Island,Orpheus Island,Australia,ORS,,-18.634,146.5,0,10,O
+7704,Geelong Airport,Geelong,Australia,GEX,YGLG,-38.225,144.333,43,10,O
+7782,Penneshaw Airport,Penneshaw,Australia,PEA,YPSH,-34.75,137.933,0,9.5,O
+7811,Redcliffe,Rothwell,Australia,,YRED,-27.206944,153.072778,75,10,U
+7843,Burswood Park Helipad,Perth,Australia,,,-31.952,115.859,25,8,O
+7879,Phillip Island Cruise Port,Phillip Island,Australia,,YPID,-38.4468,145.2378,0,10,O
+7912,Cooinda,Cooinda,Australia,CDA,YCOO,-12.9033,132.532,43,9.5,U
+7913,Jabiru,Jabiru,Australia,JAB,YJAB,-12.6571,132.893,52,9.5,U
+7977,Whitehaven Beach,Whitsunday Island,Australia,,,-20.28866,149.044966,0,-9,U
+8265,Telfer Airport,Telfer,Australia,TEF,YTEF,-21.713057,122.21222,970,8,N
+8348,Renmark,Renmark,Australia,RMK,YREN,-34.118,140.404,115,9.5,O
+8349,Leigh Creek,Leigh Creek,Australia,,YLEC,-30.598333,138.425833,856,9.5,O
+8350,Warburton,Warburton Community,Australia,,YWBR,-26.128333,126.583333,1500,8,O
+8351,Cunderdin,Cunderdin,Australia,,YCUN,-31.622223,117.216667,705,8,O
+8352,Rottnest Island,Rottnest Island,Australia,,YRTI,-32.006667,115.539722,12,8,O
+8353,Forrest,Forrest,Australia,,YFRT,-30.838056,128.115,511,8,O
+8354,Ballarat,Ballarat,Australia,,YBLT,-37.511667,143.791111,1433,10,O
+8380,Mallacoota Airport,Mallacoota,Australia,XMC,YMCO,-37.598301,149.720001,31,11,U
+8385,Roma Street Railway Station,Brisbane,Australia,,,-27.4666667,-153.0166667,100,10,N
+8386,Roma Street Railway Station,Brisbane,Australia,,,-27.4666667,153.0166667,100,10,N
+8387,Rockhampton Railway Station,Rockhampton,Australia,,,-23.378941,150.512323,100,10,N
+8388,Sydney Terminal Railway Station,Sydney,Australia,,,-33.88373,151.20592,100,10,O
+8389,Melbourne Southern Cross Railway Station,Melbourne,Australia,,,-37.8181602,144.9533883,111,10,O
+8390,Nambour Railway Station,Nambour,Australia,,,-26.617353,152.973785,400,10,N
+8391,Bundaberg Railway Station,Bundaberg,Australia,,,-24.867837,152.349416,100,10,U
+8395,Yuendumu ,Yuendumu ,Australia,YUE,YYND,-22.254167,131.781944,2205,9.5,O
